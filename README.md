@@ -49,6 +49,6 @@ The goal is to predict house prices based on features like location, square foot
 
 ##  Results
 
-- R² Score: ~0.94 (Linear Regression)
+- R² Score: ~0.9 (Linear Regression)
 - Best performance with cleaned data and location grouping
-- Model generalizes well for new inputs in the app
+- Model generalizes well for new inputs in the app.
