@@ -4,7 +4,7 @@ A data science project that builds a predictive model for house prices in Bengal
 
 ##  Problem Statement
 
-The goal is to predict house prices based on features like location, square footage, number of bedrooms/bathrooms, and more. The dataset contains real estate information for properties in Bengaluru.
+The goal is to predict house prices based on features like location, square footage, number of bedrooms/bathrooms, and more. The dataset contains real estate information for properties in Bengaluru city.
 
 ---
 
