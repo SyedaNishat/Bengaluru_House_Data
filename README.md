@@ -44,6 +44,7 @@ The goal is to predict house prices based on features like location, square foot
 - Used GridSearchCV for hyperparameter tuning
 - Final model evaluation using R², MAE, RMSE
 - Exported model using Pickle
+- We can use any other model also
 
 ---
 
