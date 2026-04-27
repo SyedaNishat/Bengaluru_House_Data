@@ -1,6 +1,6 @@
 #  Bengaluru House Price Prediction
 
-A data science project that builds a predictive model for house prices in Bengaluru using various machine learning algorithms and data preprocessing techniques and also other.
+A data science project that builds a predictive model for house prices in Bengaluru using various machine learning algorithms and data preprocessing techniques.
 
 ##  Problem Statement
 
